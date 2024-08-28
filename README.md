@@ -1,4 +1,4 @@
-![System Control](https://github.com/user-attachments/assets/3c425c20-d4a6-4a8f-ba37-e1171c83df22)
+![CPLDs](https://github.com/user-attachments/assets/0dcb20f9-9acd-40ef-989f-3439df645ba7)
 
 > A conceptual science that seeks to merge the functionalities of traditional programmable logic devices with integrated computational capabilities.
 
