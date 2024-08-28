@@ -1,4 +1,4 @@
-![Computational Programmable Logic Devices (CPLDs)](https://github.com/user-attachments/assets/f9db0192-64de-4fe0-a87c-61887ec44d5a)
+![System Control](https://github.com/user-attachments/assets/3c425c20-d4a6-4a8f-ba37-e1171c83df22)
 
 > A conceptual science that seeks to merge the functionalities of traditional programmable logic devices with integrated computational capabilities.
 
