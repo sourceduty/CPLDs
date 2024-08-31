@@ -47,6 +47,8 @@ The final component of the CPLD framework involves defining application domains 
 [New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Computational Microcontrollers](https://github.com/sourceduty/Computational_Microcontrollers)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
