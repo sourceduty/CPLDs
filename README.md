@@ -49,6 +49,8 @@ The final component of the CPLD framework involves defining application domains 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Computational Microcontrollers](https://github.com/sourceduty/Computational_Microcontrollers)
+<br>
+[Network Circuit Theory](https://github.com/sourceduty/Network_Circuit_Theory)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
